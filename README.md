@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ibrahim-MohamedH
-- 👀 I’m interested in Machine learning
+- 👀 I’m interested in Machine learning and software engineering
 - 🌱 I’m currently learning Data Analysis
 - 📫 How to reach me (SOON)
 
