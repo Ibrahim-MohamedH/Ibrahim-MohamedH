@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ibrahim-MohamedH
-- 👀 I’m interested in Machine learning and software engineering
-- 🌱 I’m currently learning Data Analysis
+- 👀 I’m interested in Web Development, Software Egineering and ML
+- 🌱 I’m currently Web Development 
 - 📫 How to reach me linkedin.com/in/ibrahim-mohamed-hussein/
 
 <!---
