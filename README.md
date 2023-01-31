@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Portfolio-1f6af5?style=for-the-badge&logo=brave&logoColor=white" alt="LinkedIn_account">
   </a>
 </div>
-<!-- <img src="https://komarev.com/ghpvc/?username=Ibrahim-MohamedH&style=for-the-badge&color=blue" alt="Profile_views"/> -->
+<img src="https://komarev.com/ghpvc/?username=Ibrahim-MohamedH&style=for-the-badge&color=blue" alt="Profile_views"/>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
   <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="40px"/>
