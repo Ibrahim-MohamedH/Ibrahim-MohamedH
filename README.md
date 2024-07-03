@@ -26,11 +26,11 @@
 </div>
 
 ### :man_technologist: About Me :
-  - :telescope: I’m working as a Teacher Assistant for [Mohamed El-hossiny](https://www.linkedin.com/in/mohamed-elhossiny-toma/) at [Instant Software Solutions](https://www.linkedin.com/company/instantsoftwaresolution/) in their  Full-stack web development diploma.
+  - :telescope: I’m a front-end angular developer at ITSP and a full-stack instructor at [Instant Software Solutions](https://www.linkedin.com/company/instantsoftwaresolution/).
 
 - :seedling: "Learn and code constantly" is my motto 💙.
 
-- :zap: In my free time, I solve fixing errors 👀, finding bugs 🐛, and build websites for fun.
+- :zap: In my free time, I love fixing errors 👀, finding bugs 🐛, and build websites for fun.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-mohamed-hussein/)
   ---
