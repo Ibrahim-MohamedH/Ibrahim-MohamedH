@@ -26,7 +26,7 @@
 </div>
 
 ### :man_technologist: About Me :
-  - :telescope: I’m a front-end angular developer at ITSP and a full-stack instructor at [Instant Software Solutions](https://www.linkedin.com/company/instantsoftwaresolution/).
+  - :telescope: I’m a front-end angular developer at The Bridge BFC and a full-stack instructor.
 
 - :seedling: "Learn and code constantly" is my motto 💙.
 
